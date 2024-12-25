@@ -1,1 +1,2 @@
 vless://fcf99985-147b-4c71-c3f2-f448e5a379f1@45.63.117.50:443?type=ws&path=%2Fws&host=cpanel3.sassanidempire.com&security=tls&sni=cpanel3.sassanidempire.com&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-45.63.117.50:443 § 104
+vless://04ee542f-1e0f-5235-9ad0-3ab2d336fb5c@[0:0:0:0:0:ffff:2d59:37bc]:8880?type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇷🇸 RS-[0:0:0:0:0:ffff:2d59:37bc]:8880 § 5
